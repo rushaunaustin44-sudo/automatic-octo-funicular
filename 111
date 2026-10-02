@@ -1,0 +1,5 @@
+crypto_app/
+  app.py
+  requirements.txt
+  templates/ (base, index, portfolio, login, register)
+  static/style.css
